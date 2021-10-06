@@ -1,0 +1,28 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Alisa Sichkarenko, Fe33",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisers/HW1---NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisers/HW1---NPM/issues"
+  },
+  "homepage": "https://github.com/alisers/HW1---NPM#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.2",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "eslint": "^7.32.0",
+    "gulp": "^4.0.2"
+  }
+}
